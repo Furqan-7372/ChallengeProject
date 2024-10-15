@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Baby Sparkle.ttf",
+      "sha1": "8f6c9734dab58112ea66eb7213a310eaf089d5d7"
+    },
+    {
+      "path": "src/assets/fonts/Chunk Five Print.ttf",
+      "sha1": "131bacec2a749d09528d0585ff9be0102e9d6bc1"
+    },
+    {
+      "path": "src/assets/fonts/Chunk.ttf",
+      "sha1": "b8b4ebc4c53f7cce46268f4aec54fa38359d988e"
+    },
+    {
+      "path": "src/assets/fonts/index.ts",
+      "sha1": "3eb8f278c644796061f734328133831afda8aa07"
+    },
+    {
+      "path": "src/assets/fonts/Olivera_Demo.ttf",
+      "sha1": "09d1a6cd68ed0f577ae00205d31af4fb9638877b"
+    },
+    {
+      "path": "src/assets/fonts/ParryHotter.ttf",
+      "sha1": "0a271d36363ad9c2d23e9872a75340c418ae4205"
+    },
+    {
+      "path": "src/assets/fonts/youmurdererbb_reg.ttf",
+      "sha1": "b29d31f1696ca262ae294c61ec795cd10a3df203"
+    }
+  ]
+}
